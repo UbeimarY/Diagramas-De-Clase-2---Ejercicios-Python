@@ -1,3 +1,7 @@
+#Codigo Ejercicio No° 1
+#Elaborado por: Ubeimar Lizardo Yepes Portilla 
+#Ingenieria de Requisitos - Semestre 2
+
 class Persona:
     def __init__(self, nombre, edad):
         self.nombre = nombre
